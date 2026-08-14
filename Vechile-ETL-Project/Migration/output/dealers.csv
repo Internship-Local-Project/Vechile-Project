@@ -1,0 +1,78 @@
+dealer_id,dealer_name,city,state,address,phone,email,dealer_type,opening_date,created_at
+1,City Auto 1,Jaipur,Rajasthan,"H.No. 758, Dey Marg",7323335098,dealer1@vehiclecompany.com,Authorized,2012-05-03,2026-08-14 11:46:14
+2,Elite Automobiles 2,Nashik,Maharashtra,"660, Nanda Street",0498155364,dealer2@vehiclecompany.com,Authorized,2004-08-06,2026-08-14 11:46:14
+3,Star Automobiles 3,Jaipur,Rajasthan,"07/896
+Sant Ganj",+916824558462,dealer3@vehiclecompany.com,Authorized,2018-12-04,2026-08-14 11:46:14
+4,Prime Motors 4,Pune,Maharashtra,"H.No. 29
+Ghosh Ganj",+910468714516,dealer4@vehiclecompany.com,Authorized,2009-10-22,2026-08-14 11:46:14
+5,Star Automobiles 5,Nashik,Maharashtra,"71/17
+Atwal Chowk",04449335703,dealer5@vehiclecompany.com,Standard,2001-03-10,2026-08-14 11:46:14
+6,Elite Automobiles 6,Ahmedabad,Gujarat,"46
+Chacko Road",05768625402,dealer6@vehiclecompany.com,Standard,2024-06-11,2026-08-14 11:46:14
+7,Elite Automobiles 7,Hyderabad,Telangana,"81/607
+Subramanian",+919190992001,dealer7@vehiclecompany.com,Premium,2012-06-23,2026-08-14 11:46:14
+8,Prime Motors 8,Indore,Madhya Pradesh,"26/78, Wagle Zila",06803640093,dealer8@vehiclecompany.com,Authorized,2018-12-16,2026-08-14 11:46:14
+9,Highway Motors 9,Bengaluru,Karnataka,"79
+Kapur Circle",+916269531672,dealer9@vehiclecompany.com,Authorized,2009-08-28,2026-08-14 11:46:14
+10,Capital Cars 10,Indore,Madhya Pradesh,"H.No. 753
+Dugar",4421547242,dealer10@vehiclecompany.com,Authorized,2004-02-28,2026-08-14 11:46:14
+11,City Auto 11,Hyderabad,Telangana,"99/909, Dewan Zila",00447266383,dealer11@vehiclecompany.com,Premium,2015-06-06,2026-08-14 11:46:14
+12,Highway Motors 12,Kolkata,West Bengal,"09
+Balay",01238701460,dealer12@vehiclecompany.com,Authorized,2020-08-10,2026-08-14 11:46:14
+13,City Auto 13,Ahmedabad,Gujarat,"H.No. 563
+De Chowk",5695097685,dealer13@vehiclecompany.com,Premium,2003-07-15,2026-08-14 11:46:14
+14,Highway Motors 14,Ahmedabad,Gujarat,"665
+Chaudhuri Path",+918866532216,dealer14@vehiclecompany.com,Standard,2016-03-22,2026-08-14 11:46:14
+15,Elite Automobiles 15,Kolkata,West Bengal,"H.No. 036
+Mahal Ganj",1760278012,dealer15@vehiclecompany.com,Standard,2003-02-13,2026-08-14 11:46:14
+16,Elite Automobiles 16,Pune,Maharashtra,"611, Chaudhary Road",+919997121588,dealer16@vehiclecompany.com,Premium,2003-07-31,2026-08-14 11:46:14
+17,Elite Automobiles 17,Bhopal,Madhya Pradesh,"79, Raman Path",+912188664134,dealer17@vehiclecompany.com,Authorized,2017-01-18,2026-08-14 11:46:14
+18,Royal Motors 18,Delhi,Delhi,"09, Goel",01134462872,dealer18@vehiclecompany.com,Standard,2016-05-13,2026-08-14 11:46:14
+19,Capital Cars 19,Nagpur,Maharashtra,"H.No. 49, Padmanabhan Road",+910468474329,dealer19@vehiclecompany.com,Premium,2009-05-25,2026-08-14 11:46:14
+20,Highway Motors 20,Jaipur,Rajasthan,"H.No. 30, Muni Zila",00955382187,dealer20@vehiclecompany.com,Standard,2003-03-15,2026-08-14 11:46:14
+21,Metro Motors 21,Kolkata,West Bengal,"33/20
+Varghese Nagar",4835450779,dealer21@vehiclecompany.com,Standard,2010-12-24,2026-08-14 11:46:14
+22,Royal Motors 22,Nagpur,Maharashtra,"72
+Khatri Street",+918481243732,dealer22@vehiclecompany.com,Premium,2012-02-09,2026-08-14 11:46:14
+23,Star Automobiles 23,Lucknow,Uttar Pradesh,"H.No. 412
+Vig Road",00940958713,dealer23@vehiclecompany.com,Authorized,2014-07-19,2026-08-14 11:46:14
+24,Prime Motors 24,Bhopal,Madhya Pradesh,"H.No. 99, Devi Street",08599212762,dealer24@vehiclecompany.com,Authorized,2001-06-09,2026-08-14 11:46:14
+25,Capital Cars 25,Indore,Madhya Pradesh,"62/485, Konda Marg",3754481285,dealer25@vehiclecompany.com,Premium,2012-01-04,2026-08-14 11:46:14
+26,Elite Automobiles 26,Mumbai,Maharashtra,"H.No. 672
+Majumdar Chowk",+911107792569,dealer26@vehiclecompany.com,Standard,2014-02-11,2026-08-14 11:46:14
+27,Royal Motors 27,Nashik,Maharashtra,"H.No. 870
+Swamy Path",6004340534,dealer27@vehiclecompany.com,Premium,2020-07-31,2026-08-14 11:46:14
+28,Highway Motors 28,Nagpur,Maharashtra,"H.No. 83, Pingle Road",0041244535,dealer28@vehiclecompany.com,Authorized,2011-01-23,2026-08-14 11:46:14
+29,Star Automobiles 29,Surat,Gujarat,"H.No. 815
+Char Marg",4420210825,dealer29@vehiclecompany.com,Standard,2011-10-14,2026-08-14 11:46:14
+30,United Motors 30,Surat,Gujarat,"H.No. 54
+Kannan Ganj",05210051518,dealer30@vehiclecompany.com,Premium,2017-11-30,2026-08-14 11:46:14
+31,Elite Automobiles 31,Bengaluru,Karnataka,"187
+Keer Zila",3708197545,dealer31@vehiclecompany.com,Authorized,2022-11-09,2026-08-14 11:46:14
+32,City Auto 32,Chennai,Tamil Nadu,"545
+Gade Street",07218246547,dealer32@vehiclecompany.com,Authorized,2004-12-01,2026-08-14 11:46:14
+33,Metro Motors 33,Nagpur,Maharashtra,"78, Mistry Nagar",+915071465554,dealer33@vehiclecompany.com,Standard,2018-12-08,2026-08-14 11:46:14
+34,City Auto 34,Kolkata,West Bengal,"44
+Mishra",09559568777,dealer34@vehiclecompany.com,Premium,2017-02-12,2026-08-14 11:46:14
+35,Royal Motors 35,Kolkata,West Bengal,"342, Devi Chowk",09058457718,dealer35@vehiclecompany.com,Standard,2011-04-12,2026-08-14 11:46:14
+36,Prime Motors 36,Ahmedabad,Gujarat,"820, Gour",3152866623,dealer36@vehiclecompany.com,Standard,2005-02-19,2026-08-14 11:46:14
+37,Star Automobiles 37,Jaipur,Rajasthan,"28/742
+Bobal",+913865717171,dealer37@vehiclecompany.com,Premium,2015-04-05,2026-08-14 11:46:14
+38,Highway Motors 38,Mumbai,Maharashtra,"80/56
+Behl Chowk",06313756597,dealer38@vehiclecompany.com,Premium,2007-02-04,2026-08-14 11:46:14
+39,Prime Motors 39,Chennai,Tamil Nadu,"H.No. 120, Ram Marg",02168847338,dealer39@vehiclecompany.com,Standard,2011-10-25,2026-08-14 11:46:14
+40,Metro Motors 40,Ahmedabad,Gujarat,"H.No. 385, Pillai Chowk",0962624214,dealer40@vehiclecompany.com,Standard,2004-10-09,2026-08-14 11:46:14
+41,Highway Motors 41,Bhopal,Madhya Pradesh,"H.No. 531
+Sinha Marg",2604544484,dealer41@vehiclecompany.com,Standard,2022-10-09,2026-08-14 11:46:14
+42,Elite Automobiles 42,Kolkata,West Bengal,"41/087, Patel Path",0231924466,dealer42@vehiclecompany.com,Authorized,2016-10-09,2026-08-14 11:46:14
+43,Metro Motors 43,Indore,Madhya Pradesh,"31/35, Gala Zila",+917901021353,dealer43@vehiclecompany.com,Standard,2023-10-16,2026-08-14 11:46:14
+44,Prime Motors 44,Lucknow,Uttar Pradesh,"18/697, Nagar Nagar",+914053582188,dealer44@vehiclecompany.com,Standard,2014-07-16,2026-08-14 11:46:14
+45,Prime Motors 45,Chennai,Tamil Nadu,"23
+Pai Zila",01971394367,dealer45@vehiclecompany.com,Authorized,2016-04-13,2026-08-14 11:46:14
+46,Highway Motors 46,Lucknow,Uttar Pradesh,"48, Dara Road",3036342014,dealer46@vehiclecompany.com,Authorized,2002-08-07,2026-08-14 11:46:14
+47,United Motors 47,Nashik,Maharashtra,"54/89
+Modi",+918777451016,dealer47@vehiclecompany.com,Authorized,2003-11-04,2026-08-14 11:46:14
+48,Royal Motors 48,Surat,Gujarat,"98/87, Sarna Road",7745924262,dealer48@vehiclecompany.com,Authorized,2023-11-23,2026-08-14 11:46:14
+49,Metro Motors 49,Indore,Madhya Pradesh,"03
+Mitter Circle",+916102008011,dealer49@vehiclecompany.com,Authorized,2021-04-27,2026-08-14 11:46:14
+50,Metro Motors 50,Ahmedabad,Gujarat,"H.No. 472, Baria Marg",05131469325,dealer50@vehiclecompany.com,Premium,2023-09-02,2026-08-14 11:46:14
