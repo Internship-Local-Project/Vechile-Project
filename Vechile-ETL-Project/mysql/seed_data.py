@@ -5,9 +5,7 @@ import mysql.connector
 from faker import Faker
 
 
-# ============================================================
-# CONFIGURATION
-# ============================================================
+
 
 DB_CONFIG = {
     "host": "localhost",
@@ -28,9 +26,7 @@ fake = Faker("en_IN")
 random.seed(42)
 
 
-# ============================================================
-# CONNECT TO MYSQL
-# ============================================================
+
 
 connection = mysql.connector.connect(**DB_CONFIG)
 
@@ -40,18 +36,12 @@ cursor = connection.cursor()
 print("Connected to MySQL successfully.")
 
 
-# ============================================================
-# HELPER FUNCTION
-# ============================================================
 
 def random_date(start_date, end_date):
     days = (end_date - start_date).days
     return start_date + timedelta(days=random.randint(0, days))
 
 
-# ============================================================
-# 1. MANUFACTURERS
-# ============================================================
 
 manufacturers = [
     ("Tata Motors", "India", 1945, "Mumbai"),
@@ -97,9 +87,6 @@ for manufacturer in manufacturers:
 print(f"Inserted {len(manufacturer_ids)} manufacturers.")
 
 
-# ============================================================
-# 2. DEALERS
-# ============================================================
 
 dealer_ids = []
 
@@ -170,9 +157,6 @@ for i in range(NUM_DEALERS):
 print(f"Inserted {len(dealer_ids)} dealers.")
 
 
-# ============================================================
-# 3. CUSTOMERS
-# ============================================================
 
 customer_ids = []
 
@@ -220,9 +204,7 @@ for i in range(NUM_CUSTOMERS):
 print(f"Inserted {len(customer_ids)} customers.")
 
 
-# ============================================================
-# 4. VEHICLES
-# ============================================================
+
 
 vehicle_ids = []
 
@@ -354,9 +336,6 @@ for i in range(NUM_VEHICLES):
 print(f"Inserted {len(vehicle_ids)} vehicles.")
 
 
-# ============================================================
-# 5. PAYMENTS
-# ============================================================
 
 sold_vehicles = [
     vehicle
@@ -435,9 +414,7 @@ for i in range(payment_count):
 print(f"Inserted {payment_count} payments.")
 
 
-# ============================================================
-# COMMIT
-# ============================================================
+
 
 connection.commit()
 
@@ -445,9 +422,7 @@ print("\n========================================")
 print("DATA GENERATION COMPLETED")
 print("========================================")
 
-# ============================================================
-# VERIFY DATA
-# ============================================================
+
 
 tables = [
     "manufacturers",
@@ -470,9 +445,7 @@ for table in tables:
     print(f"{table:20} {count:,}")
 
 
-# ============================================================
-# CLOSE CONNECTION
-# ============================================================
+
 
 cursor.close()
 connection.close()
