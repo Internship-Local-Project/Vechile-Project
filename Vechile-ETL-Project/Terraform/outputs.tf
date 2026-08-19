@@ -13,27 +13,19 @@ output "storage_bucket_url" {
   value       = module.storage.bucket_url
 }
 
-output "bigquery_dataset" {
-  description = "BigQuery dataset"
-  value       = module.bigquery.dataset_id
+
+
+output "bigquery_bronze_dataset" {
+  description = "Bronze BigQuery dataset ID"
+  value       = module.bigquery.bronze_dataset_id
 }
 
-output "bigquery_dataset_id" {
-  description = "BigQuery dataset ID"
-  value       = module.bigquery.dataset_id
+output "bigquery_silver_dataset" {
+  description = "Silver BigQuery dataset ID"
+  value       = module.bigquery.silver_dataset_id
 }
 
-output "bronze_table" {
-  description = "Bronze BigQuery table"
-  value       = module.bigquery.bronze_table
-}
-
-output "silver_table" {
-  description = "Silver BigQuery table"
-  value       = module.bigquery.silver_table
-}
-
-output "gold_table" {
-  description = "Gold BigQuery table"
-  value       = module.bigquery.gold_table
+output "bigquery_gold_dataset" {
+  description = "Gold BigQuery dataset ID"
+  value       = module.bigquery.gold_dataset_id
 }
