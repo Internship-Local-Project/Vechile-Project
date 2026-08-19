@@ -16,7 +16,6 @@ module "storage" {
 module "bigquery" {
   source = "./modules/bigquery"
 
-  dataset_id            = var.dataset_id
   location              = var.region
   service_account_email = module.service_account.email
 }
