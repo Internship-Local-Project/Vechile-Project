@@ -1,0 +1,8 @@
+[
+  {"name": "manufacturer_id", "type": "INT64", "mode": "REQUIRED"},
+  {"name": "manufacturer_name", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "country", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "founded_year", "type": "INT64", "mode": "NULLABLE"},
+  {"name": "headquarters", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "created_at", "type": "TIMESTAMP", "mode": "NULLABLE"}
+]

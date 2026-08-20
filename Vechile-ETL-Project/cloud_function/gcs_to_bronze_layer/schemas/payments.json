@@ -1,0 +1,11 @@
+[
+  {"name": "payment_id", "type": "INT64", "mode": "REQUIRED"},
+  {"name": "vehicle_id", "type": "INT64", "mode": "NULLABLE"},
+  {"name": "customer_id", "type": "INT64", "mode": "NULLABLE"},
+  {"name": "payment_date", "type": "DATE", "mode": "NULLABLE"},
+  {"name": "payment_method", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "amount", "type": "NUMERIC", "mode": "NULLABLE"},
+  {"name": "payment_status", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "transaction_reference", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "created_at", "type": "TIMESTAMP", "mode": "NULLABLE"}
+]
