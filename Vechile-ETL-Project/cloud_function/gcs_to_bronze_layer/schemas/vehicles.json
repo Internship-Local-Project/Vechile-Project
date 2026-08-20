@@ -1,0 +1,17 @@
+[
+  {"name": "vehicle_id", "type": "INT64", "mode": "REQUIRED"},
+  {"name": "manufacturer_id", "type": "INT64", "mode": "NULLABLE"},
+  {"name": "dealer_id", "type": "INT64", "mode": "NULLABLE"},
+  {"name": "customer_id", "type": "INT64", "mode": "NULLABLE"},
+  {"name": "vin", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "model_name", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "vehicle_type", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "fuel_type", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "transmission", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "manufacturing_year", "type": "INT64", "mode": "NULLABLE"},
+  {"name": "color", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "price", "type": "NUMERIC", "mode": "NULLABLE"},
+  {"name": "sale_date", "type": "DATE", "mode": "NULLABLE"},
+  {"name": "vehicle_status", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "created_at", "type": "TIMESTAMP", "mode": "NULLABLE"}
+]

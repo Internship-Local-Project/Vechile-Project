@@ -1,0 +1,12 @@
+[
+  {"name": "customer_id", "type": "INT64", "mode": "REQUIRED"},
+  {"name": "first_name", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "last_name", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "email", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "phone", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "date_of_birth", "type": "DATE", "mode": "NULLABLE"},
+  {"name": "city", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "state", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "registration_date", "type": "DATE", "mode": "NULLABLE"},
+  {"name": "created_at", "type": "TIMESTAMP", "mode": "NULLABLE"}
+]

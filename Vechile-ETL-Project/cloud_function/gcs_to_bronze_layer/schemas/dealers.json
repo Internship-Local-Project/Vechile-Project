@@ -1,0 +1,12 @@
+[
+  {"name": "dealer_id", "type": "INT64", "mode": "REQUIRED"},
+  {"name": "dealer_name", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "city", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "state", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "address", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "phone", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "email", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "dealer_type", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "opening_date", "type": "DATE", "mode": "NULLABLE"},
+  {"name": "created_at", "type": "TIMESTAMP", "mode": "NULLABLE"}
+]
